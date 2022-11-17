@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Phương Thảo à',
+    introDesc: " hnay là sinh nhật của ai thế nhỉ?
+   Hnay lad 1 ngày rất đặc biệt
+    Không chỉ đối với em
+    Mà còn đối với bản thân anh nữa "
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Ngày này 17 năm trước có 1 cô cống chúa đã ra đời 😙',
+    desc: 'Phải chăng đó chính là emm, thiên thần của anhh ',
+    btnYes: 'nhân dịp sinh nhật thảo',
+    btnNo: 'Anh chúc em luôn xinhh đẹp"
+    question:"có nhiều niềm vui và may mắn hơn trong cuộc sống"
+    btnReply: 'Và đặc biệt',
+    reply: 'Yêuuu anhh nhiều nhiềuuu hơn nuaaa nhé công chúa của tuii',
+    mess: 'Hãy bên nhau thật lâu và dài nhé ebe của anhhh',
+    messDesc: 'chúc ebe sinhh nhật tuổi 17 mãi xinggg đẹp và may mắn trong csong aaa.',
+    btnAccept: 'anhh yeu emmmm',
+    
 }
